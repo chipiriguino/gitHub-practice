@@ -1,0 +1,3 @@
+"Name: Eli"
+"Age: 18"
+"Favorite color: black"
